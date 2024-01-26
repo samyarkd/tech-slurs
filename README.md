@@ -20,3 +20,4 @@ don't let a developer hear these words
 - pull request review
 - do the needful
 - next sprint
+- short meeting
